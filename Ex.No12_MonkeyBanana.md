@@ -84,17 +84,17 @@ Step 7: Stop the program.<br>
 ```
 
 ### Output/Plan:
-![Screenshot 2024-04-29 092324](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/f7a3bbb5-0d9b-43c1-bf38-9e1171e142af)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/19a54dfd-a6ff-4395-b3aa-48a434636b10" />
 
-![Screenshot 2024-04-29 092338](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/40b25c93-136c-410d-9b89-95ee5000b995)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/42eb9b47-206a-4101-a491-b9807da886c8" />
 
-![Screenshot 2024-04-29 092352](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/5867317a-726e-4940-b219-23c9edcaebf0)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2219ffbd-ccb5-4a6e-aeda-33fcd26c68ea" />
 
-![Screenshot 2024-04-29 092405](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/cb8a826d-b025-4dc0-8348-12ea863ef04d)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d81fa16c-f950-43d5-b356-8ce8cb6cee32" />
 
-![Screenshot 2024-04-29 092416](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/9842351f-7a74-4c32-8523-0db328bcf00c)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/db5f561f-957d-4835-925d-ffc285306766" />
 
-![Screenshot 2024-04-29 092429](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/cd4fe5d4-bbfc-4f4a-be73-2517abc10869)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0147f83b-3974-4de8-95c5-958a3ff049c0" />
 
 
 
